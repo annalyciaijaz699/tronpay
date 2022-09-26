@@ -1,4 +1,4 @@
-# TronPay
+# TronPay1.0
 > 这是一个波场支付系统，适合小商户的USDT支付功能接入，响应速度达到了秒级，想完成USDT支付又不想接入别人的系统，就可以买这套代码自己部署自己使用，支持API
 
 ## 联系我： https://tronapi.gitbook.io/pay/
